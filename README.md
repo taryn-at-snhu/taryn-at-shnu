@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Taryn (a.k.a. ghost) // @taryn-at-shnu
-- 👀 I’m interested in ... finishing my computer science degree.
-- 🌱 I’m currently learning ... operating systems & software security.
-- 💞️ I’m looking to collaborate on ... video game development!
-- 📫 How to reach me ... taryn.brownfield@snhu.edu
+- 👋 Hi, I’m Taryn (a.k.a. ghost) // @taryn-at-shnu 👻
+- 👀 I’m interested in ... finishing my computer science degree. 👩🏻‍🎓
+- 🌱 I’m currently learning ... operating systems & software security. 🔒
+- 💞️ I’m looking to collaborate on ... video game development! 🎮
+- 📫 How to reach me ... taryn.brownfield@snhu.edu 💌
